@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anta&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Protest+Riot&family=Quicksand:wght@300..700&family=Truculenta:opsz,wght@12..72,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <!-- google font family CDN -->
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="images\iconWithBlackBackground.png"
+    />
+    <!-- favicon image link -->
+    <title>Page not found</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+        font-family: "Truculenta", sans-serif;
+        transition: all 0.3s;
+      }
+
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        overflow: hidden;
+        font-size: 16px;
+        background-color: #000;
+        color: #fff;
+      }
+
+      /* root */
+      :root {
+        --black: #000;
+        --white: #fff;
+        --primaryColor: #2dd358;
+        --textbefore: rgba(255, 255, 255, 0.08);
+        --textbefore2: rgba(255, 255, 255, 0.6);
+      }
+
+      ::selection {
+        color: var(--white);
+        background: var(--primaryColor);
+      }
+
+      /* ---- particles.js container ---- */
+      #particles-js {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: var(--black);
+        background-image: url("");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50% 50%;
+        z-index: -2;
+      }
+
+      .container-not-found {
+        max-width: 1000px;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+      }
+
+      .container-not-found::after {
+        content: "404";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 25em;
+        z-index: -2;
+        color: #333;
+      }
+
+      .container-not-found .not-found-content {
+        min-width: 300px;
+        width: 100%;
+        text-align: center;
+      }
+
+      .container-not-found .not-found-content h3 {
+        font-size: 3em;
+        text-transform: uppercase;
+      }
+
+      .container-not-found .not-found-content p {
+        font-size: 0.8em;
+        font-weight: 100;
+        text-transform: capitalize;
+        margin: 10px 0;
+      }
+
+      .container-not-found .not-found-content a {
+        text-transform: uppercase;
+        color: var(--primaryColor);
+      }
+
+      .container-not-found .not-found-content a:hover,
+      .container-not-found .not-found-content a:active {
+        text-decoration: underline;
+      }
+
+      /*  0px to 800px */
+      @media screen and (min-width: 0px) and (max-width: 800px) {
+        .container-not-found::after {
+          font-size: 60vmin;
+        }
+
+        .container-not-found .not-found-content h3 {
+          font-size: 10vmin;
+          text-transform: uppercase;
+        }
+
+        .container-not-found .not-found-content p {
+          font-size: 3vmin;
+          font-weight: 100;
+          text-transform: capitalize;
+          margin: 2vmin 0;
+        }
+
+        .container-not-found .not-found-content a {
+          text-transform: uppercase;
+          color: var(--primaryColor);
+          font-size: 3vmin;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- particles.js container -->
+    <div id="particles-js"></div>
+
+    <div class="container-not-found">
+      <div class="not-found-content">
+        <h3>oops!</h3>
+
+        <p>we can't seem to find the page you're looking for.</p>
+
+        <a href="http://" target="_blank" rel="noopener noreferrer">
+          Back to Home...
+        </a>
+      </div>
+      <!-- not found content -->
+    </div>
+    <!-- container not found -->
+  </body>
+
+  <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <!-- stats.js lib -->
+  <script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+  <script>
+    // js power
+
+    particlesJS("particles-js", {
+      particles: {
+        number: { value: 58, density: { enable: false, value_area: 1280 } },
+        color: { value: "#2dd358" },
+        shape: {
+          type: "circle",
+          stroke: { width: 0, color: "#ff0000" },
+          polygon: { nb_sides: 7 },
+          image: { src: "img/github.svg", width: 100, height: 100 },
+        },
+        opacity: {
+          value: 0.32,
+          random: true,
+          anim: { enable: false, speed: 1, opacity_min: 0.1, sync: false },
+        },
+        size: {
+          value: 16,
+          random: true,
+          anim: {
+            enable: true,
+            speed: 26.738617856535182,
+            size_min: 17.825745237690118,
+            sync: false,
+          },
+        },
+        line_linked: {
+          enable: false,
+          distance: 352,
+          color: "#2dd358",
+          opacity: 0.608,
+          width: 3.0400000000000005,
+        },
+        move: {
+          enable: true,
+          speed: 8,
+          direction: "bottom-right",
+          random: true,
+          straight: false,
+          out_mode: "bounce",
+          bounce: false,
+          attract: { enable: false, rotateX: 600, rotateY: 1200 },
+        },
+      },
+      interactivity: {
+        detect_on: "canvas",
+        events: {
+          onhover: { enable: false, mode: "repulse" },
+          onclick: { enable: false, mode: "push" },
+          resize: true,
+        },
+        modes: {
+          grab: { distance: 400, line_linked: { opacity: 1 } },
+          bubble: {
+            distance: 400,
+            size: 40,
+            duration: 2,
+            opacity: 8,
+            speed: 3,
+          },
+          repulse: { distance: 200, duration: 0.4 },
+          push: { particles_nb: 4 },
+          remove: { particles_nb: 2 },
+        },
+      },
+      retina_detect: true,
+    });
+
+    var count_particles, stats, update;
+
+    stats = new Stats();
+    stats.setMode(0);
+
+    stats.domElement.style.position = "absolute";
+    stats.domElement.style.left = "0px";
+    stats.domElement.style.top = "0px";
+
+    document.body.appendChild(stats.domElement);
+    count_particles = document.querySelector(".js-count-particles");
+
+    update = function () {
+      stats.begin();
+      stats.end();
+
+      if (
+        window.pJSDom[0].pJS.particles &&
+        window.pJSDom[0].pJS.particles.array
+      ) {
+        count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+      }
+      requestAnimationFrame(update);
+    };
+    requestAnimationFrame(update);
+  </script>
+</html>

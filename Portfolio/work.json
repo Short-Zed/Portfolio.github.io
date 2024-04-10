@@ -1,0 +1,235 @@
+{
+    "work": [
+        {
+            "id": 1,
+            "topic": "web development",
+            "link": "https://codepen.io/Short-Zed/full/ZEPNVWd",
+            "image": "images/work/website one.png",
+            "heading": "Photographer Portfolio Animated Website Templates & Fully Responsive!",
+            "lang": "js",
+            "langIcon": "images/javascript.png",
+            "date": "FEB 22, 2024",
+            "background": "linear-gradient(to right, #051323 ,  #010408)"
+        },
+        {
+            "id": 2,
+            "topic": "web development",
+            "link": "https://codepen.io/Short-Zed/full/BaGzoQv",
+            "image": "images/work/website two.png",
+            "heading": "movie ticket book website template!",
+            "lang": "js",
+            "langIcon": "images/javascript.png",
+            "date": "JUN 21, 2023",
+            "background": "linear-gradient(to right,  #D40000 , #DD1919)"
+        },
+        {
+            "id": 3,
+            "topic": "web development",
+            "link": "https://codepen.io/Short-Zed/full/JjeJQKv",
+            "image": "images/work/ipad.png",
+            "heading": "Crafting Your Own iPod-inspired Music Player with JavaScript!",
+            "lang": "js",
+            "langIcon": "images/javascript.png",
+            "date": "JUL 4, 2023",
+            "background": "linear-gradient(to right, #272727 , #181818)"
+        },
+        {
+            "id": 4,
+            "topic": "web development",
+            "link": "https://codepen.io/Short-Zed/full/vYQYYzZ",
+            "image": "images/work/website 3.png",
+            "heading": "Ecommerce Template UX & UI Design",
+            "lang": "js",
+            "langIcon": "images/javascript.png",
+            "date": "OCT 31, 2023",
+            "background": "linear-gradient(to right, #2175FF , #0B54CB)"
+        },
+        {
+            "id": 5,
+            "topic": "web development",
+            "link": "https://codepen.io/Short-Zed/full/wvOyLNN",
+            "image": "images/work/jadoo.png",
+            "heading": "Unlocking the Mystery: Deciphering Jadoo Alien Message in 'Koi... Mil Gaya",
+            "lang": "js",
+            "langIcon": "images/javascript.png",
+            "date": "JAN, 2024",
+            "background": "linear-gradient(to right, #0E8000 , #0C6801)"
+        },
+        {
+            "id": 6,
+            "topic": "web development",
+            "link": "https://codepen.io/Short-Zed/full/eYxOOLe",
+            "image": "images/work/radio.png",
+            "heading": "SA RE GA MA CARVAAN RADIO",
+            "lang": "vanila.js",
+            "langIcon": "images/javascript.png",
+            "date": "OCT, 2023",
+            "background": "linear-gradient(to right, #255B54, #152A27 )"
+        },
+        {
+            "id": 7,
+            "topic": "web development",
+            "link": "https://codepen.io/Short-Zed/full/VwEmPQZ",
+            "image": "images/work/whatsapp.png",
+            "heading": "JavaScript Mastery: Building a WhatsApp Clone from Scratch!",
+            "lang": "js",
+            "langIcon": "images/javascript.png",
+            "date": "APR, 2023",
+            "background": "linear-gradient(to right, #19BB05, #12A700)"
+        },
+        {
+            "id": 8,
+            "topic": "digital painting",
+            "link": "images/work/digital-painting/Anime-School-Girl.jpg",
+            "image": "images/work/digital-painting/Anime-School-Girl.jpg",
+            "heading": "Creating an Anime School Girl Digital Painting",
+            "lang": "Krita",
+            "langIcon": "images/krita.png",
+            "date": "APR, 2023",
+            "background": "linear-gradient(to right, #005CA8, #014F91)"
+        },
+        {
+            "id": 9,
+            "topic": "web development",
+            "link": "https://codepen.io/Short-Zed/full/wvERZxd",
+            "image": "images/work/website 4.png",
+            "heading": "Fully Responsive Anime Website with JavaScript",
+            "lang": "js",
+            "langIcon": "images/javascript.png",
+            "date": "MAR, 2023",
+            "background": "linear-gradient(to right, #BF5A00, #AE5302)"
+        },
+        {
+            "id": 10,
+            "topic": "graphic's",
+            "link": "images/work/graphics/wingsCricketClubLogo.png",
+            "image": "images/work/graphics/wingsCricketClubLogo.png",
+            "heading": "Cricket Logo Design: Striking Impressions with Photoshop",
+            "lang": "photoshop",
+            "langIcon": "images/Photoshop-logo.png",
+            "date": "JAN, 2024",
+            "background": "linear-gradient(to right, #450061, #3D0156)"
+        },
+        {
+            "id": 11,
+            "topic": "digital painting",
+            "link": "images/work/digital-painting/woman.png",
+            "image": "images/work/digital-painting/woman.png",
+            "heading": "Enigmatic Elegance: Digital Painting Portraying Womanhood",
+            "lang": "krita",
+            "langIcon": "images/krita.png",
+            "date": "dec, 2023",
+            "background": "linear-gradient(to right, #CC490C, #EC4F05)"
+        },
+        {
+            "id": 12,
+            "topic": "digital painting",
+            "link": "images/work/digital-painting/indian.jpg",
+            "image": "images/work/digital-painting/indian.jpg",
+            "heading": "Vibrant Heritage: Digital Portrait Celebrating Indian Boyhood",
+            "lang": "krita",
+            "langIcon": "images/krita.png",
+            "date": "jan, 2023",
+            "background": "linear-gradient(to right, #055A01, #0B4509)"
+        },
+        {
+            "id": 13,
+            "topic": "graphic's",
+            "link": "https://www.instagram.com/p/C1E19lerlJL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "images/work/graphics/manzil-star.jpg",
+            "heading": "Meet the extraordinary talents that light up our Manzil community! 🎉✨",
+            "lang": "canva",
+            "langIcon": "images/canva.png",
+            "date": "dec, 2023",
+            "background": "linear-gradient(to right, #92D0A5, #6FAC81)"
+        },
+        {
+            "id": 14,
+            "topic": "graphic's",
+            "link": "https://www.instagram.com/reel/C1rgL-RLBoT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "images/work/graphics/harsh.png",
+            "heading": "Harshvardhan Rajput, Co-founder's Associate at Manzil, is a passionate and resilient individual from Jhansi, UP. From overcoming setbacks in his early life to thriving at Manzil, his story is a testament to the power of perseverance.",
+            "lang": "canva",
+            "langIcon": "images/canva.png",
+            "date": "dec, 2023",
+            "background": "linear-gradient(to right, #D35D01, #E76600)"
+        },
+        {
+            "id": 14,
+            "topic": "graphic's",
+            "link": "https://www.instagram.com/p/C0jPimVr8MC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "images/work/graphics/chakmak.jpg",
+            "heading": "the latest issue of Chakmak magazine, students were challenged to demonstrate 2 similar images with minor differences. The idea was for the reader to spot the difference between these images.",
+            "lang": "canva",
+            "langIcon": "images/canva.png",
+            "date": "dec, 2023",
+            "background": "linear-gradient(to right, #E3985D, #FA8F3A)"
+        },
+        {
+            "id": 15,
+            "topic": "video editing",
+            "link": "https://www.instagram.com/reel/C1RipzbriVv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "images/work/video-editing/health-camp.png",
+            "heading": "Community Health Checkup Event 🌟",
+            "lang": "shoot&editing",
+            "langIcon": "images/video.png",
+            "date": "dec, 2023",
+            "background": "linear-gradient(to right, #935116, #AF601A)"
+        },
+        {
+            "id": 16,
+            "topic": "video editing",
+            "link": "https://www.instagram.com/reel/C0a5INQr_hq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "images/work/video-editing/trade-fair.png",
+            "heading": "From November 14-27, Pragati Maidan in New Delhi hosted Asia's largest trade fair, IITF 2023, uniting over 2,500 exhibitors from over 60 countries under the theme Vasudhaiva Kutumbakam - United by Trade.",
+            "lang": "shoot&editing",
+            "langIcon": "images/video.png",
+            "date": "dec, 2023",
+            "background": "linear-gradient(to right, #212F3C, #283747)"
+        },
+        {
+            "id": 17,
+            "topic": "video editing",
+            "link": "https://www.instagram.com/reel/C1bDYxPrb9D/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "images/work/video-editing/kritika.png",
+            "heading": "Meet our student, Kritika, who recently embarked on the world’s largest 14-day entrepreneurship train journey, accompanied by 500 changemakers from across India and around the globe.",
+            "lang": "shoot&editing",
+            "langIcon": "images/video.png",
+            "date": "dec, 2023",
+            "background": "linear-gradient(to right, #117A65, #0E6655)"
+        },
+        {
+            "id": 18,
+            "topic": "video editing",
+            "link": "https://youtu.be/kdmZw1XF6_Q?si=H-47wDwek5MGOY1F",
+            "image": "images/work/video-editing/painful.jpg",
+            "heading": "Painful Love | Heart Broken x I love you so much",
+            "lang": "shoot&editing",
+            "langIcon": "images/video.png",
+            "date": "jan, 2023",
+            "background": "linear-gradient(to right, #1A5276, #2471A3)"
+        },
+        {
+            "id": 19,
+            "topic": "video editing",
+            "link": "https://youtu.be/tTl6cD3snl4?si=wIHzt_OfnzOoABHT",
+            "image": "images/work/video-editing/anime.jpg",
+            "heading": "The Garden of Words | Husn x Choo Lo | Anuv Jain | Anime",
+            "lang": "shoot&editing",
+            "langIcon": "images/video.png",
+            "date": "jan, 2023",
+            "background": "linear-gradient(to right, #1A5276, #2471A3)"
+        },
+        {
+            "id": 20,
+            "topic": "video editing",
+            "link": "https://youtu.be/Xa0jeju2ZNU?si=1KLY5mvZkEaZEHDC",
+            "image": "images/work/video-editing/oppenheimer.jpg",
+            "heading": "Oppenheimer status edit x Christopher Nolan",
+            "lang": "shoot&editing",
+            "langIcon": "images/video.png",
+            "date": "jan, 2023",
+            "background": "linear-gradient(to right, #1C2833, #17202A)"
+        }
+    ]
+}
