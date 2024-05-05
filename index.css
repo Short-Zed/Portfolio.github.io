@@ -168,16 +168,27 @@ header nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 95%;
+  max-width: 1500px;
   height: 50px;
+  border-radius: 50px;
   position: fixed;
-  top: 0;
+  top:0;
+  left: 50%;
+  transform: translate(-50%,0);
+  margin-top: 10px;
   z-index: 6;
   transition: all 0.6s;
+  background-color: var(--black);
+  background: rgba(0, 0, 0, 0.41);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  border: 1px solid rgba(0, 0, 0, 1);
 }
 
 header nav.black {
-  background: var(--black);
+  background: rgba(0, 0, 0, 0.21);
 }
 
 header nav .nav-child {
@@ -1127,10 +1138,11 @@ footer .copyright {
     text-transform: uppercase;
     column-gap: 20px;
     position: absolute;
-    top: 49px;
+    top: 52px;
     left: 0;
     padding: 0px 0;
-    background: var(--black);
+    background:var(--black);
+    border-radius: 10px;
     transition: height 0.4s;
   }
 
