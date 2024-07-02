@@ -479,6 +479,14 @@ section .about-section .about-section-flex .about-section-flex-content ul {
   font-size: medium;
 }
 
+section .about-section .about-section-flex .about-section-flex-content ul li span > a{
+  color: #fff; 
+}
+
+section .about-section .about-section-flex .about-section-flex-content ul li span > a:is(:hover, :active){
+  background-color: var(--primaryColor);
+}
+
 section .about-section .about-section-flex .about-section-flex-content ul li span:nth-child(1) {
   text-transform: capitalize;
   display: inline-block;
@@ -1631,6 +1639,7 @@ footer .copyright {
     max-width: 350px;
     font-size: 0.5em;
   }
+
 
   section .skill-section .skill-section-flex {
     max-width: 500px;
