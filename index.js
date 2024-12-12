@@ -80,7 +80,7 @@ fetch("work.json")
         index = i;
       }
 
-      useData.sort(() => Math.random() - 0.5); // randomly shuffle
+      // useData.sort(() => Math.random() - 0.5); // randomly shuffle
 
       let total_data = useData.length; //total data = 8
 
