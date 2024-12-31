@@ -1,4 +1,4 @@
-# Zeeshan Shaikh - Frontend Developer  
+# PORTFOLIO
 
 
 Hi there! I'm **Zeeshan Shaikh**, a passionate frontend developer with a knack for creating engaging websites and delightful user experiences. My expertise lies in crafting clean, efficient code and bringing designs to life with seamless animations and functionality.  
