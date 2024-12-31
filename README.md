@@ -82,18 +82,23 @@ Hi there! I'm **Zeeshan Shaikh**, a passionate frontend developer with a knack f
 ### Web Development  
 
 - **[Photographer Portfolio Animated Website](https://codepen.io/Short-Zed/full/ZEPNVWd)**  
+
   ![Photographer Portfolio](./file/github_assets/01.png)  
 
-- **[Movie Ticket Booking Website Template](https://codepen.io/Short-Zed/full/BaGzoQv)**  
+- **[Movie Ticket Booking Website Template](https://codepen.io/Short-Zed/full/BaGzoQv)** 
+
   ![Movie Ticket Booking](./file/github_assets/02.png)  
 
-- **[Custom iPod-Inspired Music Player with JavaScript](https://codepen.io/Short-Zed/full/JjeJQKv)**  
+- **[Custom iPod-Inspired Music Player with JavaScript](https://codepen.io/Short-Zed/full/JjeJQKv)** 
+
   ![iPod-Inspired Music Player](./file/github_assets/03.png)  
 
-- **[Sa Re Ga Ma Carvaan Radio](https://codepen.io/Short-Zed/full/ZEPNVWd)**  
+- **[Sa Re Ga Ma Carvaan Radio](https://codepen.io/Short-Zed/full/eYxOOLe)** 
+
   ![SA RE GA MA CARVAAN RADIO](./file/github_assets/04.png) 
 
-- **[Arcade Video Game](https://codepen.io/Short-Zed/full/BaGQrMO)**  
+- **[Arcade Video Game](https://codepen.io/Short-Zed/full/BaGQrMO)**
+  
   ![Arcade Video Game](./file/github_assets/05.png) 
 
 
