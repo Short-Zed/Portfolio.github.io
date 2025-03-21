@@ -224,6 +224,27 @@ header nav .nav-child ul {
   column-gap: 20px;
 }
 
+
+header nav .nav-child ul li.active-btn{
+  height: 35px !important;
+  width: 150px;
+}
+
+header nav .nav-child ul li.active-btn > a{
+    background: #2dd358;
+    color: #fff;
+    border-radius: 50px;
+    width: 100%;
+}
+
+header nav .nav-child ul li.active-btn > a:hover{
+  color: #eee;
+}
+
+header nav .nav-child ul li.active-btn > a:hover::after{
+  width: 0;
+} 
+
 header nav .nav-child ul li {
   height: 100%;
   display: flex;
