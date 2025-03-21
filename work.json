@@ -230,6 +230,17 @@
             "langIcon": "images/video.png",
             "date": "jan, 2023",
             "background": "linear-gradient(to right, #1C2833, #17202A)"
+        },
+        {
+            "id": 21,
+            "topic": "web development",
+            "link": "https://github.com/Short-Zed/Room-Rent-Management-PHP-SQL-",
+            "image": "https://raw.githubusercontent.com/Short-Zed/Room-Rent-Management-PHP-SQL-/main/Macbook-Air-room-rent-management.infinityfreeapp.com.png",
+            "heading": "A PHP-based web app to calculate and manage room rent with electricity bills. Features record tracking (ordered by date, descending), PDF export with TCPDF, and rent trend visualization using Chart.js.",
+            "lang": "Php & Sql",
+            "langIcon": "images/javascript.png",
+            "date": "MAR, 2025",
+            "background": "linear-gradient(to right, #232323, #000000)"
         }
     ]
 }
